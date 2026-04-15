@@ -1,0 +1,19 @@
+ACTIVITY 4: CHANGE ITEM
+
+fruits = ["apple", "banana", "cherry"]
+fruits[1] = "orange"
+print(fruits)
+
+ACTIVITY 5: ADD ITEMS
+
+fruits = ["apple", "banana", "cherry"]
+fruits.append("mango")
+fruits.insert(1, "grape")
+print(fruits)
+
+ACTIVITY 6:REMOVE ITEMS
+
+fruits = ["apple", "banana", "cherry"]
+fruits.remove("banana")
+fruits.pop()
+print(fruits)
