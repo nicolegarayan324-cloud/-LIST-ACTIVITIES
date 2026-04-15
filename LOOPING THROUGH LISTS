@@ -1,11 +1,11 @@
-ACTIVITY 7: FOR LOOP
+# ACTIVITY 7: FOR LOOP
 # Task: Print each item
 
 animals = ["dog", "cat", "bird"]
 for x in animals:
 print (x)
 
-ACTIVITY 8: WITH INDEX
+# ACTIVITY 8: WITH INDEX
 #  Task: Print index and value
 
 numbers = [10, 20, 30]
