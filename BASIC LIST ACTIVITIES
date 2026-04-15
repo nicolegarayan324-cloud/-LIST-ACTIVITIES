@@ -1,0 +1,15 @@
+ACTIVITY 1: CREATE A LIST
+
+fruits = ["apple", "banana', "cherry"]
+print(fruits)
+
+ACTIVITY 2: ACCESS ITEMS
+
+fruits = ["apple", "banana", "cherry"]
+print(fruits[0])
+print(fruits[2]
+
+ACTIVITY 3: LIST LENGTH
+
+colors = ["red", "blue", "green", "yellow"]
+print(len(colors))
