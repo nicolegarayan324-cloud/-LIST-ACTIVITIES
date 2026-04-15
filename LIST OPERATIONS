@@ -1,4 +1,4 @@
-ACTIVITY 9: CHECK ITEMS IF EXISTS
+# ACTIVITY 9: CHECK ITEMS IF EXISTS
 # Check if "banana" is in the list
 
 fruits = ["apple", "banana", "cherry"]
@@ -7,7 +7,7 @@ print("Yes, banana is in the list")
 else:
 print("No, banana is not in the list")
 
-ACTIVITY 10: SORTING
+# ACTIVITY 10: SORTING
 # Sort ascending
 # Sort descending
 
@@ -19,7 +19,7 @@ numbers = [5, 2, 9, 1]
 numbers.sort(reverse=True)
 print("Descending", numbers)
 
-ACTIVITY 11: COPY LIST
+# ACTIVITY 11: COPY LIST
 # Create a copy of list1 into list2
 
 list1 = ["a", "b", "c"]
