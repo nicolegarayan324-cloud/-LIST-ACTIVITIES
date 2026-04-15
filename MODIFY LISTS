@@ -1,19 +1,32 @@
 ACTIVITY 4: CHANGE ITEM
+# Task: Replace "banana" with "orange"
 
 fruits = ["apple", "banana", "cherry"]
 fruits[1] = "orange"
 print(fruits)
 
 ACTIVITY 5: ADD ITEMS
+# Task:
+Add "mango" to the list
+Insert "grape" at index 1
 
 fruits = ["apple", "banana", "cherry"]
 fruits.append("mango")
+print(fruits)
+
+fruits = ["apple", "banana", "cherry"]
 fruits.insert(1, "grape")
 print(fruits)
 
 ACTIVITY 6:REMOVE ITEMS
+# Task:
+Remove "banana"
+Remove last item
 
 fruits = ["apple", "banana", "cherry"]
 fruits.remove("banana")
+print(fruits)
+
+fruits = ["apple", "banana", "cherry"]
 fruits.pop()
 print(fruits)
