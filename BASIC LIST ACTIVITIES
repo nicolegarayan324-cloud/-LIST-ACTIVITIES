@@ -1,15 +1,20 @@
-ACTIVITY 1: CREATE A LIST
+# ACTIVITY 1: CREATE A LIST
+# Task: Create a list of 3 fruits and print it
 
 fruits = ["apple", "banana', "cherry"]
 print(fruits)
 
-ACTIVITY 2: ACCESS ITEMS
+# ACTIVITY 2: ACCESS ITEMS
+#Task: Print the first and last item
 
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])
+
+fruits = ["apple", "banana", "cherry"]
 print(fruits[2]
 
-ACTIVITY 3: LIST LENGTH
+# ACTIVITY 3: LIST LENGTH
+# Task: Print how many items are in the list
 
 colors = ["red", "blue", "green", "yellow"]
 print(len(colors))
