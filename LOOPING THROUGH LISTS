@@ -1,0 +1,11 @@
+ACTIVITY 7: FOR LOOP
+
+animals = ["dog", "cat", "bird"]
+for x in animals:
+print (x)
+
+ACTIVITY 8: WITH INDEX
+
+numbers = [10, 20, 30]
+for i, value in enumerate(numbers):
+print(i, ":", value)
