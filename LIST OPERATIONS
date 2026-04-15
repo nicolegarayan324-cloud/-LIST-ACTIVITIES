@@ -1,0 +1,23 @@
+ACTIVITY 9: CHECK ITEMS IF EXISTS
+
+fruits = ["apple", "banana", "cherry"]
+if "banana" in fruits:
+print("Yes, banana is in the list")
+else:
+print("No, banana is not in the list")
+
+ACTIVITY 10: SORTING
+
+numbers = [5, 2, 9, 1]
+numbers.sort()
+print("Ascending", numbers)
+
+numbers = [5, 2, 9, 1]
+numbers.sort(reverse=True)
+print("Descending", numbers)
+
+ACTIVITY 11: COPY LIST
+
+list1 = ["a", "b", "c"]
+list2 = list1.copy
+print(list2)
